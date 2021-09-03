@@ -9,3 +9,4 @@
 * Don't Lose Sleep Over Team Decisions
 * Focus Your Precious Energy on Your Area of Control
 * The Team Owns the Code
+* Let Your Teammates Own Their Work
