@@ -1,5 +1,6 @@
 # Table of Contents
 
+* Introduction
 * Take Care of Your People
 * Sleep in the Same Quarters as the Troops
 * Be Loyal Up and Down the Chain of Command
@@ -7,6 +8,7 @@
 * Your Life's Task Trumps Loyalty to a Job
 * Encourage 'Disagree and Commit'
 * Don't Lose Sleep Over Team Decisions
+* Enjoy your PTO - Don't Look at Slack
 * Focus Your Precious Energy on Your Area of Control
 * The Team Owns the Code
 * Let Your Teammates Own Their Work
