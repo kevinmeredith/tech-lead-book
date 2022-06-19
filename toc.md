@@ -1,11 +1,12 @@
 # Table of Contents
 
 * Introduction
-* Take Care of Your People
+* Ch 1 - Zoom Out to Win
 * Sleep in the Same Quarters as the Troops
 * Be Loyal Up and Down the Chain of Command
 * Staying a Domain Expert Can be a Career Liability
 * Your Life's Task Trumps Loyalty to a Job
+* Sports Team, not a Family
 * Encourage 'Disagree and Commit'
 * Don't Lose Sleep Over Team Decisions
 * Enjoy your PTO - Don't Look at Slack
