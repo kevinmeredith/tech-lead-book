@@ -1,4 +1,4 @@
-# Ch 1. Zoom Out to Win
+# Ch 1. Zoom Out
 
 In this scenario, `Tech Lead` and `Bob the Intern` work on the same team, who's responsible for developing back-end web
 services. Your author is the `Tech Lead` in this example. The following conversation took place in Slack in a channel
@@ -24,7 +24,7 @@ My initial, fleeting, ego-driven thought to Bob's response was:
 
 ```
 What does Bob know about Software Development? He's been working in the field for a few months. I've got
-ten years of experience. Where does Bob get the nerve?
+ten years of experience. Wiiere does Bob get the nerve?
 ```
 Luckily, I realized this nonsense was driven by my Ego. Taking a breath, I zoomed out and looked at both options
 objectively: testing synchronously or asynchronously, including pros and cons of each. Looking at them, the choice was
