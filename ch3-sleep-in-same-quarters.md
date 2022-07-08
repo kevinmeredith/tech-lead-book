@@ -9,6 +9,10 @@ I don't recall where I had read or heard this story. It goes something like:
 > their leader relate to their conditions as he slept in a comfortable bed indoors while they, each night,
 > faced Nature in tents alone?
 
+Steven Pressfield's "X" higlights the epitome of a leader in this story of Alexander the Great:
+
+> ... <insert story about how he poured water on the ground when his men had none>
+
 From Ch 2, I mentioned that I had led a team of engineers on an exhausting on-call rotation. That four-man, 5-week
 rotation looked like:
 
