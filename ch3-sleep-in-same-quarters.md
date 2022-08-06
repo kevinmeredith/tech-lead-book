@@ -9,10 +9,6 @@ I don't recall where I had read or heard this story. It goes something like:
 > their leader relate to their conditions as he slept in a comfortable bed indoors while they, each night,
 > faced Nature in tents alone?
 
-Steven Pressfield's "X" higlights the epitome of a leader in this story of Alexander the Great:
-
-> ... <insert story about how he poured water on the ground when his men had none>
-
 From Ch 2, I mentioned that I had led a team of engineers on an exhausting on-call rotation. That four-man, 5-week
 rotation looked like:
 
@@ -24,4 +20,18 @@ took on the primary, and "Me" was secondary.
 
 Over the five-week rotation, I took two shifts, whereas the remaining three team members took one. I took it upon
 myself to bear more of the burden as the leader. It was my duty to my fellow troops.
+
+Steven Pressfield's "The Warrior Ethos" perfectly captures the epitome of a true leader in this story of
+Alexander the Great:
+
+> Once, Alexander was leading his army through a waterless desert. The column was strung out for miles,
+> with men and horses suffering terribly rom thirst.
+
+>> Suddenly, a detachment of scouts came galloping back to the king. They had found a small spring and
+>> had managed to fill up a helmet with water. They rushed to Alexander and presented this to him. The army
+>> held in place, watching. Every man's eye was fixed upon his commander. Alexander thanked his scouts
+>> for bringing him this gift, then, without touching a drop, he lifted the helmet and poured the precious
+>> liquid onto the sand.
+>> At once, a great cheer ascended, rolling like thunder from one end of the column to the other. A man
+>> was heard to say, "With a king like this to lead us, no force on earth can stand against us."
 
