@@ -4,6 +4,8 @@
 * Ch 1 - Zoom Out
 * Ch 2 - Take Care of the Team
 * Ch 3 - Sleep in the Same Quarters as the Troops
+* Ch 4 - Keep the High Ground
+* Ch 5 - Sports Team, not a Family
 * Be Loyal Up and Down the Chain of Command
 * Staying a Domain Expert Can be a Career Liability
 * Your Life's Task Trumps Loyalty to a Job

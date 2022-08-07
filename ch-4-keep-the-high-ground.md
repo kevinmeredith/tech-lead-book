@@ -1,4 +1,4 @@
-# Ch 3. Keep the High Ground
+# Ch 4. Keep the High Ground
 
 In one of Jocko Willink's podcast, he discusses the concept of "high ground" from "About Face: The Odyssey of an American
 Warrior" by David Hackworth.

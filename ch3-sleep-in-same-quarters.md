@@ -21,7 +21,7 @@ took on the primary, and "Me" was secondary.
 Over the five-week rotation, I took two shifts, whereas the remaining three team members took one. I took it upon
 myself to bear more of the burden as the leader. It was my duty to my fellow troops.
 
-Steven Pressfield's "The Warrior Ethos" perfectly captures the epitome of a true leader in this story of
+Steven Pressfield's book, "The Warrior Ethos," perfectly captures the epitome of a leader in this story of
 Alexander the Great:
 
 > Once, Alexander was leading his army through a waterless desert. The column was strung out for miles,

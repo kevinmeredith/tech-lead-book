@@ -24,6 +24,8 @@ of coding/task execution. In this book, I share the principles that I believe ar
 
 `*` - https://akfpartners.com/books/the-art-of-scalability
 
+< close with 5 Dysfunctions of a Team on teamwork + importance of helping the team to win>
+
 ## Why I Wrote This Book
 
 I decided to write this book based on my own personal experiences as a Software Engineer and Technical Lead. I aim to
