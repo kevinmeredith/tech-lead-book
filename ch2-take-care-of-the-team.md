@@ -15,30 +15,36 @@ During one weekend, Sammy received thirty pages on a Saturday. As the Tech Lead,
 Channel every few hours that day to check on the number of pages. To my dismay, I observed the high number of pages
 that must've been ruining Sammy's day. I sent a Direct Message to Sammy around 10 PM on Saturday:
 
-```
-Me: Hi Sammy - I've seen the number of pages fired today. How are you doing?
-Sammy: I'm OK. Yes, it's been a rough day.
-Me: You must be exhausted. Please let me take over the page now and you can pick it back up on Monday morning. Please
-get some rest on Sunday.
-Sammy: OK - thank you!
-```
+::: {.conversation}
+    Me: Hi Sammy - I've seen the number of pages fired today. How are you doing?
+
+    Sammy: I'm OK. Yes, it's been a rough day.
+
+    Me: You must be exhausted. Please let me take over the page now and you can
+     pick it back up on Monday morning. Please get some rest on Sunday.
+
+    Sammy: OK - thank you!
+:::
 
 After I concluded the message with Sammy, I sent an email to my manager:
 
-```
-Dear Bill -
+::: {.conversation}
+    Dear Bill -
 
-Sammy received thirty pages today. All of the incidents appear to be related to our flaky integration. I've been
-in her shoes and know how nerve-wracking an unpleasant a thirty-page day is. I think it's fair that Sammy be granted
-an additional day of Paid Time Off given that her entire day was consumed by answering PagerDuty. Can you please
-approve that?
+    Sammy received thirty pages today. All of the incidents appear to be related to
+     our flaky integration. I've been in her shoes and know how nerve-wracking an
+     unpleasant a thirty-page day is. I think it's fair that Sammy be granted
+     an additional day of Paid Time Off given that her entire Saturday was consumed
+     by answering PagerDuty. Can you please approve that?
 
-I know the team has kicked around a few ideas on how to apply a band-aid fix to this problem -in the name of improving
-the on-call experience of an Engineer. I personally think our team will burn out given the frequency of pages,
-as well as the demoralizing effect of not being able to address the root cause.
+    I know the team has kicked around a few ideas on how to apply a band-aid fix
+     to this problem -in the name of improving the on-call experience of an Engineer.
+     I personally think our team will burn out given the frequency of pages,
+     as well as the demoralizing effect of not being able to address the root cause.
 
-Let's please tag up on Monday to discuss a few solutions to improve this dire situation. How's that work for you?
+    I set up a meeting on Monday to discuss a few solutions to improve this
+     dire situation, please.
 
-Thanks,
-Kevin
-```
+    Thanks,
+    Kevin
+:::
