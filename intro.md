@@ -15,20 +15,33 @@ that aims to make its practitioners live fuller, better lives. From Stoicism, I 
 namely, "The 48 Laws of Power" and "The Laws of Human Nature." Right before learning about Stoicism, I met Jocko
 Willink's book, "Extreme Ownership." The aforementioned authors and their books have influenced my own greatly.
 
-"The Art of Scalability" * defines leadership as:
+"Art of Scalability, The: Scalable Web Architecture, Processes, and Organizations for the Modern Enterprise" book
+defines leadership as:
 
 > influencing the behavior of an organization or a person to accomplish a specific objective.
 
-A Technical Lead's job consists of applying leadership to a technical domain, as well as some amount
-of coding/task execution. In this book, I share the principles that I believe are critical for a Tech Lead.
+A Technical Lead's role is to apply leadership in a technical capacity. The author, Patrick Lencioni,
+perfectly describes the criticality of teamwork in the beginning of his excellent book,
+"The Five Dysfunctions of a Team:"
 
-`*` - https://akfpartners.com/books/the-art-of-scalability
+::: {.conversation}
 
-< close with 5 Dysfunctions of a Team on teamwork + importance of helping the team to win>
+    Not finance. Not strategy. Not technology.
+
+    It is teamwork that remains the ultimate competitive advantage, both because
+    it is to powerful and so rare.
+
+    If you could get all the people in an organization rowing in the same direction,
+    you could dominate any industry, in any market, against any competition.
+
+:::
+
+In this book, I share the principles that are critical for a Technical Lead to encourage teamwork.
 
 ## Why I Wrote This Book
 
-I decided to write this book based on my own personal experiences as a Software Engineer and Technical Lead. I aim to
-apply the principles that I've applied and learned from Ryan, Jocko and Robert into this book. I hope to contribute to
-the leadership development of existing and to-be Technical Leaders. Lastly, I hope to receive feedback, critical and
-positive, on the book that I've produced. "Win or learn," not "Win or Lose," as Jocko has taught me!
+I decided to write this book based on my own personal experiences as a Technical Lead at
+two companies. I aim to apply the principles that I've applied and learned from Ryan, Jocko and Robert into this book.
+I hope to contribute to the leadership development of existing and to-be Technical Leaders. Lastly, I hope to receive
+feedback, critical and positive, on the book that I've produced. "Win or learn," not "Win or Lose," as Jocko has
+taught me!

@@ -22,10 +22,9 @@ teammate, `Bob the Intern`, disagreed, laying out a strong argument for his idea
 
 My initial, fleeting, ego-driven thought to Bob's response was:
 
-```
-What does Bob know about Software Development? He's been working in the field for a few months. I've got
-ten years of experience. Wiiere does Bob get the nerve?
-```
+> What does Bob know about Software Development? He's been working in the field for a few months. I've got
+> ten years of experience. Wiiere does Bob get the nerve?
+
 Luckily, I realized this nonsense was driven by my Ego. Taking a breath, I zoomed out and looked at both options
 objectively: testing synchronously or asynchronously, including pros and cons of each. Looking at them, the choice was
 clear: asynchronous. Then I responded in Slack as I had above, applauding Bob's insight.asynchronous
