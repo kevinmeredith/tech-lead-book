@@ -11,9 +11,9 @@ devoted to an important feature. The Vice President of Engineering regularly pos
      and then let us and the Product Team know their results.
 
     Bob the Intern: Come to think of it, I'm not so sure asynchronous is the right
-     way to go. There's many tests to run and our business work flows are complex.
-     How about we schedule 30 minutes with iOS, Android, and Product to make sure
-     the end-to-end flows get sign-off from Product?
+     way to go. There's many tests to run and our user journeys are complex.
+     How about we schedule 30 minutes with the Mobile Engineers and Product Owner
+     to make sure Product signs off?
 
     Tech Lead: I agree, Bob. You've laid out strong arguments for why we should
      choose synchronous over asynchronous. I'll set up that meeting for later
@@ -37,10 +37,10 @@ decisions to be made based on individuals' Egos or an objective analysis of pros
 better: those driven entirely by Ego or ones made based on objective analyses of facts? Which decisions are likely
 to produce higher revenues and profits for the company: those made due to Ego or those driven by the truth alone?
 
-Clearly these questions require no explicit answers. As a Tech Lead, your duty is to influence the company in making
+Clearly these questions' answers are self-evident. As a Tech Lead, your duty is to influence the company in making
 technical decisions that are the best. When evaluating multiple options, clearly and calmly evaluate their pros and cons,
-and encourage technical debate with your teammates. Failing to uphold this fair assessment will result in worse choices
-for the company.
+and encourage technical debate with your teammates. Failing to uphold this fair assessment will result in lesser choices
+for the company. That, ultimately, will result in fewer profits and lower return on investment to shareholders.
 
 In short, given the choice between winning and losing, which will you pick?
 
@@ -52,3 +52,5 @@ In short, given the choice between winning and losing, which will you pick?
   `**` UAT is a deployment environment that precedes Production.
 
 :::
+
+\newpage

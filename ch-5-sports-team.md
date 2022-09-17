@@ -40,13 +40,21 @@ these "Staff" roles should directly contribute technically, so this person got a
 was to pair with a high performing "Senior Software Engineer," Bob, on my team on a larger project. After one-and-half weeks,
 I had my regularly scheduled 1-1 with Bob.
 
-> Me: Hey Bob - how's everything going with Joe?
-> Bob: Terrible. He's not opened a Pull Request or made any visible progress.
-> Me: That's not good. Has he sought any advice from you or asked any questions?
-> Bob: None. He's slowing me down since I'm dependent on his task for closing out this project. If
->      he doesn't show any progress by end of this week, I'm going to do the work myself.
-> Me: I understand, Bob. Let me talk to Joe to see if I can get to the bottom of his zero progress. Let's discuss
->     this further at our next 1-1.
+
+::: {.conversation}
+
+    Me:  Hey Bob - how's everything going with Jason?
+    Bob: Terrible. He's not opened a Pull Request or made any
+         visible progress.
+    Me:  That's not good. Has he sought any advice from you or
+         asked any questions?
+    Bob: None. He's slowing me down since I'm dependent on his task
+         for closing out this project. If he doesn't show any progress
+         by end of this week, I'm going to do the work myself.
+    Me:  I understand, Bob. Let me talk to Jason to see if I can get
+         to the bottom of his zero progress. Let's discuss this further
+         at our next 1-1.
+::: 
 
 At my next weekly 1-1 with my Manager, I raised the concern of Jason's poor performance. Unfortunately, Jason continued
 to struggle and not deliver results. At my next few 1-1's with my Manager, I let my Manager know of Jason's lack of
@@ -62,10 +70,8 @@ excellent book, "The 48 Laws of Power," as to why I did not share my thoughts:
 > Never outshine the master
 
 Sharing my true thoughts would've put me at odds with my own Manager. Revealing those thoughts would deliver an implicit
-criticism: "I know better than you." Lastly, 
-
-As a result, as a Technical Lead, use your influence to help the team win, but continue to maintain a good relationship
-with your Manager. This person has the authority to advance or shut down your current role.
+criticism: "I know better than you." As a Tech Lead, help the team, but know and respect boundaries of your Manager.
 
 `*` - https://www.nytimes.com/2022/02/19/business/dealbook/barry-mccarthy-interview-peloton.html
 
+\newpage

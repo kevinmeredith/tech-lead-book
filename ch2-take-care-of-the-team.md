@@ -8,12 +8,13 @@ Multiple engineers on the team had raised this problem to the manager, letting t
 of burning out the entire team.
 
 A new teammate, an intern turned Full-Time, Sammy, had joined the team a few months ago. Given Sammy's experience and
-the need for more blood to join the on-call, Sammy was enlisted in the rotation. Although Sammy was new, she was
+the need for more people to join the on-call, Sammy was enlisted in the rotation. Although Sammy was new, she was
 dedicated to executing on her tasks and producing results.
 
 During one weekend, Sammy received thirty pages on a Saturday. As the Tech Lead, I had checked in our `#on-call` Slack
-Channel every few hours that day to check on the number of pages. To my dismay, I observed the high number of pages
-that must've been ruining Sammy's day. I sent a Direct Message to Sammy around 10 PM on Saturday:
+Channel every few hours given that Sammy was new to the rotation - to see how they were doing. To my dismay, I
+observed the high number of pages that must've been ruining Sammy's day. I sent a Direct Message to Sammy
+around 10 PM on Saturday:
 
 ::: {.conversation}
     Me: Hi Sammy - I've seen the number of pages fired today. How are you doing?
@@ -32,10 +33,10 @@ After I concluded the message with Sammy, I sent an email to my manager:
     Dear Bill -
 
     Sammy received thirty pages today. All of the incidents appear to be related to
-     our flaky integration. I've been in her shoes and know how nerve-wracking an
+     our flaky integration. I've been in her shoes and know how nerve-wracking and
      unpleasant a thirty-page day is. I think it's fair that Sammy be granted
-     an additional day of Paid Time Off given that her entire Saturday was consumed
-     by answering PagerDuty. Can you please approve that?
+     an additional day of Paid Time Off (PTO) given that her entire Saturday was consumed
+     by answering PagerDuty. Can you please approve of that?
 
     I know the team has kicked around a few ideas on how to apply a band-aid fix
      to this problem -in the name of improving the on-call experience of an Engineer.
@@ -48,3 +49,5 @@ After I concluded the message with Sammy, I sent an email to my manager:
     Thanks,
     Kevin
 :::
+
+\newpage
